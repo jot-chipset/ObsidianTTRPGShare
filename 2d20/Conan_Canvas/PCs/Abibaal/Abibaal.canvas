@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"group","id":"a384326a43130f42","x":-600,"y":-440,"width":2080,"height":1200,"label":"Abibaal","background":"Assets/Modiphius - The Art of Conan.jpg"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^ade406","id":"85b104fd50db4f1f","x":-600,"y":-440,"width":737,"height":180,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^4f033a","id":"5757881384fff31a","x":-600,"y":-260,"width":520,"height":400,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^5e4866","id":"aebccecdd3583058","x":-600,"y":140,"width":480,"height":120,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^c0b981","id":"d7cf98a77eb49f83","x":-600,"y":260,"width":600,"height":230,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^c150d8","id":"4b61f289db8397bf","x":137,"y":-438,"width":180,"height":128,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^c2efaf","id":"825bda932c38ee01","x":317,"y":-438,"width":400,"height":128,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^40d218","id":"22fdcf577f6e6067","x":-120,"y":140,"width":280,"height":120,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^baeec8","id":"b394964bce7dd729","x":160,"y":140,"width":420,"height":120,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^fc74fd","id":"3f0da2368775b314","x":-80,"y":-260,"width":520,"height":400,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^a9837b","id":"add7f66a6244c5d9","x":-600,"y":490,"width":600,"height":270,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^88f419","id":"d10f236cf1eceb50","x":0,"y":260,"width":420,"height":500,"color":"2"},
+		{"type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^99966a","id":"0190486f33b0fbbf","x":420,"y":260,"width":320,"height":245,"color":"2"},
+		{"id":"72ada28d68e9c7ec","x":137,"y":-310,"width":233,"height":50,"color":"2","type":"file","file":"PCs/Abibaal/Stats.md","subpath":"#^372d5f"}
+	],
+	"edges":[]
+}
